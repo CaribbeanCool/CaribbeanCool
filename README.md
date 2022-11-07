@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alejandro Perez </h1>
-<h3 align="center">An up and coming softtware engineer from Mayaguez, Puerto Rico </h3>
+<h3 align="center">An up and coming softtware engineer from San Juan, Puerto Rico </h3>
 
-- 🌱 I’m currently learning **Data Structures :)**
+- :school: I’m currently studying in the University of Puerto Rico, Mayaguez Campus**
+
+- 🌱 I’m currently learning **Advanced Programming and Foundations of Computing :)**
 
 - 💬 Ask me about **anything that I can answer**
 
