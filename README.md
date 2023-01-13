@@ -3,7 +3,7 @@
 
 - :school: I’m currently studying in the University of Puerto Rico, Mayaguez Campus
 
-- 🌱 I’m currently learning **Advanced Programming and Foundations of Computing :)**
+- 🌱 I’m currently learning **Data Structures and Algorithms :)**
 
 - 💬 Ask me about **anything that I can answer**
 
