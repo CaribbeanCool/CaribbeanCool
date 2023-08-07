@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **alejandro.perez21@upr.edu**
 
-- 📄 Know about my experiences [https://bit.ly/3k3Ycck](https://bit.ly/3k3Ycck)
+- 📄 Know about my experiences [https://rb.gy/yb4fs](https://rb.gy/yb4fs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
