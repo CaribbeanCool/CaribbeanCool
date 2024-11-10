@@ -3,7 +3,7 @@
 
 - :school: I’m currently studying at the University of Puerto Rico, Mayaguez Campus
 
-- 🌱 I’m currently learning **Intro to Software Engineering**
+- 🌱 I’m currently learning **Computer Architecture 2, Programming Languages, & Design of Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://caribbeancool.github.io/Portfolio/](https://caribbeancool.github.io/Portfolio/)
 
