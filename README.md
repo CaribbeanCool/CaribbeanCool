@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alejandro.perez21@upr.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lg83SAyMCnBPWPzOmfuq0m84dN0f0QLU/view?usp=sharing](https://drive.google.com/file/d/1lg83SAyMCnBPWPzOmfuq0m84dN0f0QLU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wNu2-TlMop2GN5juPkp878kgX3Icw4HN/view?usp=sharing](https://drive.google.com/file/d/1wNu2-TlMop2GN5juPkp878kgX3Icw4HN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
