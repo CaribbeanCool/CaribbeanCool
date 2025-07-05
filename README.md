@@ -3,7 +3,7 @@
 
 - :school: I’m currently studying at the University of Puerto Rico, Mayaguez Campus
 
-- 🌱 I’m currently learning **Operating Systems**
+- 🌱 I’m currently learning **Database Systems**
 
 - 👨‍💻 All of my projects are available at [https://caribbeancool.github.io/Portfolio/](https://caribbeancool.github.io/Portfolio/)
 
