@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Perez</h1>
 <h3 align="center">5th year Software Engineering student from San Juan, PR</h3>
 
-- 🌱 I’m currently learning **Database Systems**
+- 🌱 I’m currently learning **Agentic AI and GenAI**
 
 - 📫 How to reach me **alejandro.perez21@upr.edu**
 
