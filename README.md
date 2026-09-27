@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro Perez</h1>
-<h3 align="center">5th year Software Engineering student from San Juan, PR</h3>
+<h3 align="center">6th year Software Engineering student from San Juan, PR</h3>
 
 - 🌱 I’m currently learning **Agentic AI and GenAI**
 
-- 📫 How to reach me **alejandro.perez21@upr.edu**
+- 📫 How to reach me: **alejandro.perez21@upr.edu**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1MOO5uahitVwMdVzOjPVImUhjVWXMOYsx/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1wYBi8RXsyXCjymtNIiW81ZECmuX92R9U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
